@@ -16,4 +16,5 @@ If one of these blocks is found in a chunk (or in the neighboring chunks), it wi
 
 That means:
 
-Simple dirt towers without further decorative blocks, or dug caves without torches, protective blocks or similar will be deleted.
+Simple dirt towers without further decorative blocks, or dug caves without torches, protective blocks or similar will be deleted
+as long as there are no blocks from the whitelist around at least 80x80x80 blocks.
